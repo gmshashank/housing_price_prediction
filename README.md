@@ -20,3 +20,8 @@ installing the library from requirements.txt
 ```
 pip install -r requirements.txt
 ```
+
+Flask Inference
+```
+python app.py
+```
